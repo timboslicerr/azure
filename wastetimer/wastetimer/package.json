@@ -1,9 +1,0 @@
-{
-  "name": "wastetimer",
-  "version": "0.0.0",
-  "description": "wastetimer",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  }
-}
